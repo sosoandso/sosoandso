@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sosoandso aka seyram
+- 👋 Hi, I’m @sosoandso aka Seyram
 - 👀 I’m interested in learning effectively towards becoming a software developer oneday.
 - 💞️ I’m looking to collaborate on some projects (As an amateur this will really help!) or things you may think might help me improve.   
 - 📫 How to reach me - on here! Looking forward to meeting you :)!

@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sosoandso aka Seyram
-- 👀 I’m interested in learning effectively towards becoming a software developer oneday.
-- 💞️ I’m looking to collaborate on some projects (As an amateur this will really help!) or things you may think might help me improve.   
-- 📫 How to reach me - on here! Looking forward to meeting you :)!
+- 👋 Hi, I’m @sosoandso aka Seyram!
+- 👀 I’m interested in learning effectively towards becoming a software developer or DevOps engineer.
+- 💞️ I’m looking to collaborate on some projects (As a junior, this will really help!)
+- 📫 How to reach me - on here! Looking forward to meeting you and possibly working with you in the future :)!
 
 
 <!---
